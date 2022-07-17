@@ -6,6 +6,8 @@ A Max for Live MIDI device inspired by [Rian Treanor's Clockalgo](https://djmag.
 
 This Max for Live device generates algorithm clock pulses as MIDI notes.
 
+![Screenshot of Algoclock Max for Live device](/docs/images/m4l-algoclock-screenshot.png)
+
 ### Requirements
 
 #### Max 8.3
