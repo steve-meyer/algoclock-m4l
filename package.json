@@ -1,6 +1,6 @@
 {
   "name": "algoclock",
-  "version": "1.0.0",
+  "version": "0.1.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "clockalgo": "github:steve-meyer/clockalgo.js#v0.3.4"
+    "clockalgo": "github:steve-meyer/clockalgo.js#v0.4.1"
   }
 }
